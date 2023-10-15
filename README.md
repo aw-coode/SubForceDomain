@@ -16,7 +16,7 @@
 
 * python subforcedomain.py
 
-<img src="https://github.com/aw-coode/SubForceDomain/blob/master/FOTOsub.png">
+<img src="https://github.com/aw-coode/SubForceDomain/blob/main/FOTOsub.png">
 
 <h3> تابعني علا تليجرام </h3>
 
