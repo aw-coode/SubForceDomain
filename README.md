@@ -1,5 +1,4 @@
 # SubForceDomain
-# SubForceDomain
 تعداد النطاقات الفرعية بالقوة الغاشمة
 
 
